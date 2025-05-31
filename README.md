@@ -70,7 +70,7 @@ Karyatra is an AI-powered job application tracking system developed as a web app
 - Mobile app support
 - Peer job-search collaboration features
 
- 📄 License
+📄 License
 
 This project is licensed under the MIT License.
 
