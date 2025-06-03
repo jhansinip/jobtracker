@@ -24,7 +24,7 @@ Karyatra is an AI-powered job application tracking system developed as a web app
 - **Chrome Extension**: JavaScript, HTML5, Manifest V3, Selenium
 - **Backend**: Flask/FastAPI, Python, SQLite/Firebase
 - **AI & NLP**: spaCy, OpenRouter AI, Regex
-- **APIs**: SerpAPI, Google OAuth, SimpleGmail
+- **APIs**: Google OAuth, SimpleGmail
 
 ## 📦 Key Modules
 
